@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reindeer_study
+* source:	https://sketchfab.com/3d-models/reindeer-study-f59bd69bd06b4c739f2471334384dc09
+* author:	itspiao (https://sketchfab.com/itspiao)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reindeer_study" (https://sketchfab.com/3d-models/reindeer-study-f59bd69bd06b4c739f2471334384dc09) by itspiao (https://sketchfab.com/itspiao) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
