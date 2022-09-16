@@ -11,3 +11,8 @@ QR - Code:
 Open this link with your phone and scan the following image:
 
 ![reindeer-image](https://github.com/tq-bit-cpro/arjs-demo/blob/master/assets/reindeer-img.jpg?raw=true)
+
+Sources:
+
+- [Mind.ar.js Documentation](https://hiukim.github.io/mind-ar-js-doc/)
+- [Image Compiler](https://hiukim.github.io/mind-ar-js-doc/tools/compile)
